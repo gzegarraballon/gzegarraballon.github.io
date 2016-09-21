@@ -1,0 +1,15 @@
+*{
+	font-family: Futura;
+}
+ul{
+	font-size: 14px;
+}
+a:link{
+	text-decoration:none;
+}
+a:hover{
+	color:#bf40bf;
+}
+a:visited{
+	color:#0000cc;
+}
