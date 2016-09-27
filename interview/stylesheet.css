@@ -1,15 +1,26 @@
 *{
 	font-family: Futura;
+	background-color: #E5C6CC;
 }
 ul{
-	font-size: 14px;
+	font-size: 20px;
 }
 a:link{
 	text-decoration:none;
 }
 a:hover{
+	color:#F0CD77;
+}
+a:link{
 	color:#364B3A;
 }
 a:visited{
 	color:#364B3A;
 }
+h2{
+	font-size:36px;
+}
+h4{
+	font-size:24px;
+}
+
