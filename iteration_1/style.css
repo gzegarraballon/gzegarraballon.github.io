@@ -1,10 +1,12 @@
 body {
-	background-color: #E6E6FA;
-	margin: 0; 
+	background-color: blue;
+	margin: 30px; 
 }
 .element{
-	width: 100px;
+	width: 1100px;
 	height: 100px;
 	background-color: #5050C4;
 	margin: 10px;
+	float:left;
+	border-radius: 30px;
 }
