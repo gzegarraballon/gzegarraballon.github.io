@@ -1,0 +1,16 @@
+*{
+	font-family: 'Rokkitt',serif;
+	background-color: #3059c0;
+	color: white;
+	text-decoration: none;
+	font-size: 48px;
+}
+a{
+	color:#ed6243;
+}
+div{
+   	position: absolute;
+   	top:0; left:30%;
+   	margin:0 0 0 0px;
+   	
+}
