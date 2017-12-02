@@ -1,0 +1,12 @@
+*{
+	font-family: 'Helvetica';
+	width: 700px;
+	background-color: #5e85c4;
+}
+h2{
+	font-style: italic;
+	color: #680e4a;
+}
+p{
+	font-size: 12px;
+}
